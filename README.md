@@ -4,11 +4,6 @@ Data + Code availability
 import os
 from datetime import datetime
 
-def generate_readme():
-    """Generate README.md with data and code availability."""
-    
-    readme_content = """# Infrastructure Diversity Analysis – Data & Code Availability
-
 This repository contains the code and associated data sources used for the analysis of infrastructure diversity. All datasets and scripts are publicly accessible, ensuring full reproducibility of the results presented in the associated study.
 
 ---
