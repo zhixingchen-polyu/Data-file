@@ -1,12 +1,6 @@
 # Data-file
 Data + Code availability
 
-#!/usr/bin/env python3
-"""
-Script to generate README.md for Infrastructure Diversity Analysis project.
-Automatically formats data and code availability information.
-"""
-
 import os
 from datetime import datetime
 
