@@ -1,6 +1,6 @@
 # Data-file
-# Pathways to Spatial Equity: Lessons from Global Patterns of Urban Infrastructure Diversity
-# npj Urban Sustainability
+## Pathways to Spatial Equity: Lessons from Global Patterns of Urban Infrastructure Diversity
+## npj Urban Sustainability
 
 Data & Code availability
 
