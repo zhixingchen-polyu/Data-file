@@ -1,5 +1,5 @@
 # Data-file
-Data + Code availability
+Data & Code availability
 
 This repository contains the code and associated data sources used for the analysis of infrastructure diversity. All datasets and scripts are publicly accessible, ensuring full reproducibility of the results presented in the associated study.
 
