@@ -3,6 +3,9 @@ Data & Code availability
 
 This repository contains the code and associated data sources used for the analysis of infrastructure diversity. All datasets and scripts are publicly accessible, ensuring full reproducibility of the results presented in the associated study.
 
+'Pathways to Spatial Equity: Lessons from Global Patterns of Urban Infrastructure Diversity'
+'npj Urban Sustainability'
+
 ---
 
 ## Data availability
@@ -69,15 +72,3 @@ Scripts are organized by analytical step and include detailed comments to suppor
 Please refer to the original data sources and the repository for respective licensing terms.
 
 ---
-
-*README generated on {date}*
-""".format(date=datetime.now().strftime("%Y-%m-%d"))
-
-    # Write to file
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(readme_content)
-    
-    print("README.md generated successfully.")
-
-if __name__ == "__main__":
-    generate_readme()
